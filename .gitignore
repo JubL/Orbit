@@ -1,0 +1,10 @@
+*.txt
+*.dat
+*.o
+*.log
+run_*
+*.e*
+*.o*
+job.parallel
+hello_world.cpp
+getData.cpp
